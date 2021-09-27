@@ -1,4 +1,4 @@
-# Finamp
+#  Finamp
 
 Finamp is a Jellyfin music player for Android and iOS. Its main feature is the ability to download songs for offline listening.
 
